@@ -41,3 +41,7 @@ E:\WPF\GitWork\Web\MusicStore\MusicStore\bin\zh-Hans\System.Web.WebPages.Razor.r
 E:\WPF\GitWork\Web\MusicStore\MusicStore\obj\Debug\MusicStore.csprojResolveAssemblyReference.cache
 E:\WPF\GitWork\Web\MusicStore\MusicStore\obj\Debug\MusicStore.dll
 E:\WPF\GitWork\Web\MusicStore\MusicStore\obj\Debug\MusicStore.pdb
+E:\WPF\GitWork\Web\MusicStore\MusicStore\bin\EntityFramework.dll
+E:\WPF\GitWork\Web\MusicStore\MusicStore\bin\EntityFramework.SqlServer.dll
+E:\WPF\GitWork\Web\MusicStore\MusicStore\bin\EntityFramework.xml
+E:\WPF\GitWork\Web\MusicStore\MusicStore\bin\EntityFramework.SqlServer.xml
